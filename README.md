@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 
 <!--
 **gabriel-englert/gabriel-englert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 Technologies and Tools I Use
+<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/> </p>
+- I'm a physics undergraduate student at UFRGS
+- I'm currently studying Machine Learning 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-englert&layout=compact&theme=tokyonight)

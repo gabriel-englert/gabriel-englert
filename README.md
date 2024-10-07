@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 Technologies and Tools I Use
-<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/> </p>
-- I'm a physics undergraduate student at UFRGS
-- I'm currently studying Machine Learning 
+- I'm a Physics student at UFRGS, currently working on a scientific initiation scholarship in Machine Learning applied to Physics, specifically focusing on Game Theory.
+Some Technologies and Tools i use:
+<p align="left"> <img src="https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"/> <img src="https://img.shields.io/badge/-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/> <img src="https://img.shields.io/badge/-F37626?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/> <img src="https://img.shields.io/badge/-F37626?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/> </p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-englert&layout=compact&theme=tokyonight)

@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I'm a Physics student at UFRGS
+- I'm a Physics undergraduate student at UFRGS
 - I'm currently working on a scientific initiation scholarship in Machine Learning applied to Physics, specifically focusing on Game Theory.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-englert&layout=compact&theme=tokyonight)
